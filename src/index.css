@@ -139,6 +139,17 @@ body {
   cursor: pointer;
   /* touch-action: manipulation; */
 }
+#left-section .button:first-child {
+  background-color: #646cff;
+  border-color: #747bff;
+  color: #ffffff;
+}
+#left-section .button:last-child {
+  background-color: #646cff;
+  border-color: #747bff;
+
+  color: #ffffff;
+}
 #info {
   display: flex;
   flex-direction: column;
