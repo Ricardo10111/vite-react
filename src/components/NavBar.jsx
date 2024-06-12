@@ -8,6 +8,7 @@ export default function NavBar() {
           <span>Vite</span>
         </div>
         <div id="docsearch">
+            <span><img src="/public/searchmagnifierinterfacesymbol1_79893.svg" alt="" /></span>
           <input
             type="input"
             className=" DocSearch-Button"
@@ -22,6 +23,7 @@ export default function NavBar() {
         <p href="#Plugins">Plugins</p>
         <p href="#Resources">Resources</p>
         <p href="#Version">Version</p>
+        <span><img src="/public/three_dots_icon_159804.svg" alt="" /></span>
       </section>
     </nav>
   );
